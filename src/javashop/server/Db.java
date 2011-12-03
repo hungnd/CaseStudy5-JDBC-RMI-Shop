@@ -17,7 +17,7 @@ import java.util.logging.*;
 public class Db {
 
     private String host = "localhost";
-    private String dbname = "java_shop";
+    private String dbname = "network_store";
     private String dbuser = "root";
     private String dbpass = "root";
     
